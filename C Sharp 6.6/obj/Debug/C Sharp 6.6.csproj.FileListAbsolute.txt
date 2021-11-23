@@ -1,0 +1,2 @@
+C:\Users\domin\OneDrive - Xaverian College\Documents\Computer Science Programming\C Sharp 6.6\C Sharp 6.6\obj\Debug\C Sharp 6.6.csprojAssemblyReference.cache
+C:\Users\domin\OneDrive - Xaverian College\Documents\Computer Science Programming\C Sharp 6.6\C Sharp 6.6\obj\Debug\C Sharp 6.6.csproj.CoreCompileInputs.cache
